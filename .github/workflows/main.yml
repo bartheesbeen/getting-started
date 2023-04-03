@@ -38,5 +38,5 @@ jobs:
             ports: '3000'
             azure-file-volume-share-name: 'barthfs'
             azure-file-volume-account-name: 'barthsa'
-            azure-file-volume-account-key: 'KIfGZVn79/WjofvVY+mDiVHXPX/lKlI10oirRsrl6Wt9c8HTbthY1Ld8fToiExkYsZwkBGabI8Lq+AStsH4KEw==
+            azure-file-volume-account-key: 'KIfGZVn79/WjofvVY+mDiVHXPX/lKlI10oirRsrl6Wt9c8HTbthY1Ld8fToiExkYsZwkBGabI8Lq+AStsH4KEw=='
             azure-file-volume-mount-path: '/etc/todos'
